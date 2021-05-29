@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Sun May 30 00:30:38 2021
+# Process ID: 13156
+# Current directory: D:/Programming/Vivado/graphics_card/graphics_card.runs/impl_1
+# Command line: vivado.exe -log graphic_card.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source graphic_card.tcl -notrace
+# Log file: D:/Programming/Vivado/graphics_card/graphics_card.runs/impl_1/graphic_card.vdi
+# Journal file: D:/Programming/Vivado/graphics_card/graphics_card.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source graphic_card.tcl -notrace
